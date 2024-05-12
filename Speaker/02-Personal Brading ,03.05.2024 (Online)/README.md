@@ -86,7 +86,7 @@ Download PDF - [02-Personal Brading ,03.05.2024 (Online)](https://docs.google.co
   </tr>
   <tr>
     <td>Photos/Recording URL</td>
-    <td> https://stdntpartners-my.sharepoint.com/:f:/g/personal/abishek_haththakage_studentambassadors_com/EjpR854EXmRCk3hCdmKYg2kBNKPofDwKBE2hClYab-_PQQ?e=2ny3sV</td>
+    <td> https://stdntpartners-my.sharepoint.com/:v:/g/personal/abishek_haththakage_studentambassadors_com/EY64xewH3yNAtnrBucAOURwBh5MVJBpTo89QuV5PLdRxJw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aWatqp</td>
   </tr>
   <tr>
     <td>Acquired Skills</td>
@@ -99,7 +99,6 @@ Download PDF - [02-Personal Brading ,03.05.2024 (Online)](https://docs.google.co
   </tr>
   <tr>
     <td>Contributors</td>
-    <td>Abishek Haththakage</td>
-    <td>Windya Madushani (not MLSA)</td>
+    <td>Abishek Haththakage, Windya Madushani</td>
   </tr>
 </table>
